@@ -96,4 +96,4 @@ Aspiring Software Engineer focused on building scalable, full-stack web applicat
 
 <br/>
 
-<img src="./assets/banner-footer.svg" width="100%"/>
+<img src="./banner-footer.svg" width="100%"/>
