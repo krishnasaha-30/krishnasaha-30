@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:2C5364,100:0A66C2&height=200&section=header" width="100%"/>
+<img src="./banner.svg" width="100%"/>
 
 <p align="center">
-  <img src="./profile-circle.png" width="140" alt="Krishna Saha"/>
+  <img src="./assets/profile-circle.png" width="140" alt="Krishna Saha"/>
 </p>
 
 <h1 align="center">Krishna Saha</h1>
@@ -41,9 +41,31 @@ Aspiring Software Engineer focused on building scalable, full-stack web applicat
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,git,vscode&theme=dark" alt="Tech Stack" />
-</p>
+<table align="center">
+<tr>
+<td valign="top" align="center" width="33%">
+
+**Frontend**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Frontend"/>
+
+</td>
+<td valign="top" align="center" width="33%">
+
+**Backend**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend"/>
+
+</td>
+<td valign="top" align="center" width="33%">
+
+**Tools**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" alt="Tools"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
