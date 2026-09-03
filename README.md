@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/krishna-saha-6006ba392" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:shukrishna30@gmail.com">
+  <a href="mailto:shukrishna23@gmail.com">
     <img src="https://img.shields.io/badge/Email-2C5364?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -96,4 +96,4 @@ Aspiring Software Engineer focused on building scalable, full-stack web applicat
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A66C2,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+<img src="./assets/banner-footer.svg" width="100%"/>
