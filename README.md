@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:38BDF8&height=200&section=header&text=Krishna%20Saha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Competitive%20Programmer&descAlignY=55&descSize=18" width="100%"/>
+
 <h1 align="center">Hi 👋, I'm Krishna Saha</h1>
 <h3 align="center">🔭 I build things with JavaScript, React, and Node.js</h3>
 
