@@ -1,4 +1,4 @@
-<img src="./banner_tech.svg" width="100%"/>
+<img src="./banner.svg" width="100%"/>
 
 <p align="center">
   <img src="./profile-circle.png" width="140" alt="Krishna Saha"/>
