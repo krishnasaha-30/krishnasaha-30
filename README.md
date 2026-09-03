@@ -1,91 +1,77 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:38BDF8&height=180&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:2C5364,100:0A66C2&height=200&section=header" width="100%"/>
 
 <p align="center">
-  <img src="./profile-circle.png" width="150" alt="Krishna Saha"/>
+  <img src="./profile-circle.png" width="140" alt="Krishna Saha"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Krishna Saha</h1>
-<h3 align="center">🔭 I build things with JavaScript, React, and Node.js</h3>
+<h1 align="center">Krishna Saha</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=flat-square&color=blueviolet" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR-USERNAME?style=flat-square&color=blueviolet&label=Followers" alt="Followers" />
-</p>
-
-<br/>
-
-### 👨‍💻 About Me
-
-I'm an aspiring Software Engineer and passionate full-stack learner dedicated to building scalable web applications. On the frontend, I craft intuitive interfaces using HTML, CSS, JavaScript, and React. On the backend, I focus on server-side architecture, APIs, and database design. Beyond web development, I'm active in competitive programming and hold a **2-Star rating on CodeChef**. I'm always looking to sharpen my problem-solving skills, collaborate on open-source, or discuss new tech ideas!
-
-<br/>
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <b>Frontend</b><br/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=560&lines=Full-Stack+Developer+%7C+MERN+Stack;Building+scalable+APIs+%26+backend+systems;2%E2%98%85+CodeChef+%7C+Open+Source+Contributor;Always+shipping%2C+always+learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>Backend</b><br/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=krishnasaha-30&style=flat-square&color=2C5364" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/krishnasaha-30?style=flat-square&color=2C5364&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/badge/CodeChef-2★-5B4638?style=flat-square" alt="CodeChef" />
 </p>
-
-<p align="center">
-  <b>Tools & Others</b><br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
-<br/>
-
-### 🏆 Problem Solving
-
-<p align="center">
-  🥈 <b>CodeChef:</b> 2-Star Rating
-</p>
-
-<br/>
-
-### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krishna-saha-6006ba392" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shukrishna30@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-2C5364?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <br/>
 
-### 📊 GitHub Stats
+## About Me
+
+Aspiring Software Engineer focused on building scalable, full-stack web applications.
+
+- 🔭 **Frontend:** crafting intuitive interfaces with HTML, CSS, JavaScript, and React
+- ⚙️ **Backend:** server-side architecture, REST APIs, and database design
+- 🏆 **Competitive Programming:** 2-Star rated on CodeChef
+- 🌱 Currently deepening my knowledge of scalable backend systems
+- 💬 Always open to collaborate on open-source or talk through new tech ideas
+
+<br/>
+
+## Tech Stack
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,git,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0A66C2&height=100&section=footer" width="100%"/>
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnasaha-30&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+</p>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=krishnasaha-30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+</td>
+<td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasaha-30&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnasaha-30&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=krishnasaha-30&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A66C2,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
