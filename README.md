@@ -1,5 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:38BDF8&height=200&section=header&text=Krishna%20Saha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Competitive%20Programmer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:38BDF8&height=180&section=header" width="100%"/>
 
+<p align="center">
+  <img src="./profile-circle.png" width="150" alt="Krishna Saha"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Krishna Saha</h1>
 <h3 align="center">🔭 I build things with JavaScript, React, and Node.js</h3>
 
 <p align="center">
@@ -11,16 +16,7 @@
 
 ### 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="180" align="center">
-<img src="./profile.jpeg" width="150" style="border-radius:50%;" alt="Krishna Saha"/>
-</td>
-<td>
-I'm an aspiring Software Engineer and passionate full-stack learner dedicated to building scalable web applications. On the frontend, I craft intuitive interfaces using HTML, CSS, JavaScript, and React. On the backend, I focus on server-side architecture, APIs, and database design. Beyond web development, I'm active in competitive programming and hold a <b>2-Star rating on CodeChef</b>. I'm always looking to sharpen my problem-solving skills, collaborate on open-source, or discuss new tech ideas!
-</td>
-</tr>
-</table>
+I'm an aspiring Software Engineer and passionate full-stack learner dedicated to building scalable web applications. On the frontend, I craft intuitive interfaces using HTML, CSS, JavaScript, and React. On the backend, I focus on server-side architecture, APIs, and database design. Beyond web development, I'm active in competitive programming and hold a **2-Star rating on CodeChef**. I'm always looking to sharpen my problem-solving skills, collaborate on open-source, or discuss new tech ideas!
 
 <br/>
 
