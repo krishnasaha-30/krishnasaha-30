@@ -11,7 +11,16 @@
 
 ### 👨‍💻 About Me
 
-I'm an aspiring Software Engineer and passionate full-stack learner dedicated to building scalable web applications. On the frontend, I craft intuitive interfaces using HTML, CSS, JavaScript, and React. On the backend, I focus on server-side architecture, APIs, and database design. Beyond web development, I'm active in competitive programming and hold a **2-Star rating on CodeChef**. I'm always looking to sharpen my problem-solving skills, collaborate on open-source, or discuss new tech ideas!
+<table>
+<tr>
+<td width="180" align="center">
+<img src="./profile.jpeg" width="150" style="border-radius:50%;" alt="Krishna Saha"/>
+</td>
+<td>
+I'm an aspiring Software Engineer and passionate full-stack learner dedicated to building scalable web applications. On the frontend, I craft intuitive interfaces using HTML, CSS, JavaScript, and React. On the backend, I focus on server-side architecture, APIs, and database design. Beyond web development, I'm active in competitive programming and hold a <b>2-Star rating on CodeChef</b>. I'm always looking to sharpen my problem-solving skills, collaborate on open-source, or discuss new tech ideas!
+</td>
+</tr>
+</table>
 
 <br/>
 
