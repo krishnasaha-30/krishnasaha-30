@@ -1,7 +1,7 @@
 <img src="./banner.svg" width="100%"/>
 
 <p align="center">
-  <img src="./assets/profile-circle.png" width="140" alt="Krishna Saha"/>
+  <img src="./profile-circle.png" width="140" alt="Krishna Saha"/>
 </p>
 
 <h1 align="center">Krishna Saha</h1>
